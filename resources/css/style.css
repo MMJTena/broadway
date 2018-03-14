@@ -38,11 +38,16 @@ nav {
     font-size: 23px;
     font-weight: bold;
     text-align: center;
-    color: white; 
   }
-
   p {
     font-family: Helvetica;
     font-size: 14px;
     text-align: center;
+  }
+
+  .footer {
+    font-family: Helvetica;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
   }
