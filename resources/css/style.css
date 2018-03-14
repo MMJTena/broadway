@@ -33,6 +33,14 @@ nav {
     text-align: center;
   }
 
+  h4 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    color: white; 
+  }
+
   p {
     font-family: Helvetica;
     font-size: 14px;
